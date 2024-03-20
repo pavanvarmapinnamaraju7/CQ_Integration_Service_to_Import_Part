@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>ImportPartController</members>
+		<members>TestImportPartController</members>
+		<members>TestFactoryClass</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Part_Settings.Part_Settings</members>
+		<name>CustomMetadata</name>
+	</types>
+	<types>
+		<members>Part_Settings__mdt</members>
+		<members>SQX_Part__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Integration_Admin</members>
+		<name>CustomPermission</name>
+	</types>
+	<types>
+		<members>SQX_Part__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>Home_Page_Default</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>importPart</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<types>
+		<members>CQ_Parts_PS</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>Integration Admin</members>
+		<name>Profile</name>
+	</types>
+	<version>58.0</version>
+</Package>
